@@ -1,5 +1,5 @@
 from lumibot.brokers import Alpaca
-from lumibot.backtesting import YahooDataBacktesting
+from lumibot.backtesting import YahooDataBacktesting #other backesting like polygon backtesting (for crypto) can also be set
 from lumibot.strategies.strategy import Strategy
 from lumibot.traders import Trader
 from datetime import datetime
