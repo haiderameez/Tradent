@@ -81,8 +81,9 @@ class MLTrader(Strategy):
                 self.submit_order(order)
                 self.last_trade = "sell"
 
-start_date = datetime(2023,12,15)
-end_date = datetime(2023,12,31)
+#set your own dates
+start_date = datetime(2024,1,1) 
+end_date = datetime(2025,1,1)
 
 broker = Alpaca(ALPACA_CREDS)
 strategy = MLTrader(name='mlstrat', broker = broker,
