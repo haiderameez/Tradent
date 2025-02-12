@@ -3,7 +3,7 @@
 Tradent is an AI Agent that uses machine learning trading strategy through FinBERT to analyze financial news sentiment and execute bracket orders accordingly. It uses Lumibot framework integrated with the Alpaca brokerage. 
 
 
-## Disclaimer
+## DISCLAIMER
 
 #### This project is for educational and research purposes only. It does not constitute financial advice or a recommendation to trade real money. Always conduct your own research and consult a qualified financial professional before making any investment decisions. Discretion is advised.
 
